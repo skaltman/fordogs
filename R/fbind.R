@@ -4,9 +4,10 @@
 #' are the union of the levels of th input factors.
 #'
 #' @param a x
-#' @param b x
+#' @param c x
 #' @return x
 #' @export
+#'
 #' @examples
 #' fbind(iris$Species[c(1, 51, 101)], PlantGrowth$group[c(1, 11, 21)])
 fbind <- function(a, b) {

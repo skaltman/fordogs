@@ -9,7 +9,7 @@ fbind(a, b)
 \arguments{
 \item{a}{x}
 
-\item{b}{x}
+\item{c}{x}
 }
 \value{
 x
